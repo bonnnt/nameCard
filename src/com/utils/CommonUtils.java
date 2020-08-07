@@ -4,7 +4,7 @@ import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 /**
- * @Description TODO
+ * @Description TODO 公共操作类
  * @Classname CommonUtils
  * @Author Kehao Liu
  * @Date 2020/7/22 12:20 上午
